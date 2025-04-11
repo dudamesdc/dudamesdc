@@ -23,5 +23,5 @@ I'm currently pursuing a degree in Science and Technology with an emphasis in Co
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](www.linkedin.com/in/maria-eduarda-silva-657911327)  
-📧 Email: [your.email@example.com](mailto:eduardamesdc@gmail.com)
+📧 Email: [eduardamesdc@gmail.com](mailto:eduardamesdc@gmail.com)
 
