@@ -17,7 +17,7 @@ I'm currently pursuing a degree in Science and Technology with an emphasis in Co
 ### 📄 Certificates
 
 - [AI Fundamentals Certification - Datacamp](https://drive.google.com/file/d/1fnd1lU-1jhTG-v1K0Hba5e2eiysSOjyk/view?usp=sharing)
-- [FIC- EMBEDDED SYSTEMS- FEDERAL INSTITUTE OF RIO GRANDE DO NORTE] 
+- [FIC- Embeded Systems- Federal Institue of Rio Grande do Norte] 
 
 ---
 
