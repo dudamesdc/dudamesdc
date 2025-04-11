@@ -1,1 +1,27 @@
+# 👩‍💻 Junior Developer
+
+## Hi there! I'm Maria Eduarda Silva
+
+### 🎓 About Me
+I'm currently pursuing a degree in Science and Technology with an emphasis in Computer Technology.
+
+---
+
+### 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudamesdc&show_icons=true&theme=radical)]([https://github.com/dudamesdc])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudamesdc&layout=compact&theme=radical)]([https://github.com/dudamesdc])
+
+---
+
+### 📄 Certificates
+
+- [AI Fundamentals Certification - Datacamp](#)  
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](www.linkedin.com/in/maria-eduarda-silva-657911327)  
+📧 Email: [your.email@example.com](mailto:eduardamesdc@gmail.com)
 
