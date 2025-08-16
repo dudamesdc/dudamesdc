@@ -1,26 +1,24 @@
-# 👩‍💻 Junior Developer
+# 👩‍💻 Maria Eduarda Silva
 
-## Hi there! I'm Maria Eduarda Silva
+## About Me
+I am currently pursuing a degree in **Science and Technology**, with a focus on **Computer Technology**.  
+I have experience in backend development, API design, and containerized applications, and I enjoy building practical solutions with clean and maintainable code.
 
-###  About Me
-I'm currently pursuing a degree in Science and Technology with an emphasis in Computer Technology.
 
----
 
-###  GitHub Stats
+## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudamesdc&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/dudamesdc)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudamesdc&layout=compact&theme=radical&cache_seconds=1800)](https://github.com/dudamesdc)
 
 
----
 
 ###  Certificates
 
 - [AI Fundamentals Certification - Datacamp](https://drive.google.com/file/d/1fnd1lU-1jhTG-v1K0Hba5e2eiysSOjyk/view?usp=sharing)
 - [FIC- Embeded Systems- Federal Institue of Rio Grande do Norte] 
 
----
+
 
 ###  Contact
 
