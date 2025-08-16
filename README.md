@@ -9,8 +9,9 @@ I'm currently pursuing a degree in Science and Technology with an emphasis in Co
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudamesdc&show_icons=true&theme=radical)]([https://github.com/dudamesdc])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudamesdc&layout=compact&theme=radical)]([https://github.com/dudamesdc])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dudamesdc&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/dudamesdc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudamesdc&layout=compact&theme=radical&cache_seconds=1800)](https://github.com/dudamesdc)
+
 
 ---
 
